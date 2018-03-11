@@ -1,0 +1,8 @@
+== Retry Template Demo
+
+An application that obtains river data from the USGS RESTful API and outputs it to console.
+Spring Retry is used to retry and recover if it fails to retrieve the data.
+
+== Build
+
+`mvn clean install`
